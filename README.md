@@ -1,12 +1,12 @@
 # Personal Growth App
 
-Using "Vanilla" Javascript, PHP and SVG to create an enhanced user experience.
+Using "React, Material UI and Local Storage to create app that is ready to improve your every day.
 [Demo](https://www.nikstep.cz/Apps/PGA)
 
 ## About The Project
 
-|                        Desktop                        |                       Mobile                        |
-| :---------------------------------------------------: | :-------------------------------------------------: |
+|                        Desktop                        |                        Mobile                        |
+| :---------------------------------------------------: | :--------------------------------------------------: |
 | ![](https://www.nikstep.cz/Apps/Pics/Desktop/PGA.jpg) | ![](https://www.nikstep.cz/Apps/Pics/Mobile/PGA.jpg) |
 
 Fully responsive and optimized personal growth app. Features: React with hooks, local storage, Material UI, Memoization.
