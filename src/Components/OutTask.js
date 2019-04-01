@@ -36,7 +36,7 @@ const TaskList = memo(props => (
                 {...todo}
                 // eslint-disable-next-line react/no-array-index-key
                 key={`GoalItem.${indx}`}
-                divider={indx !== props.items.length - 1}
+                divider={indx !== props.inptems.length - 1}
                 onButtonClick={() => props.onItemRemove(indx)}
                 onCheckBoxToggle={() => props.onItemCheck(indx)}
               />
